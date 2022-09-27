@@ -1,0 +1,12 @@
+.fil{
+position: fixed;
+z-index: 1;
+padding-top: 80px;
+}
+
+.inputFilter {
+  width: 400px;
+  margin-right: 10px;
+  margin-left: 500px;
+  padding-right:300px;
+}
